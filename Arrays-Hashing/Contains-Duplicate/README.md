@@ -1,1 +1,1 @@
-This has the notes for the "Contains Duplicate Problem"
+For this problem, I utilized the HashSet function of storing only unique elements. I stored all the unique elements, and then compared the size of the hashSet to that of the array, if they were the same it would mean that there is no duplicate. Else, it would mean that there is a duplicate. 
